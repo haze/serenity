@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["VoiceGatewayManager","FIXME: must be documented. All these take read refs to allow struct to use its own concurrency access mechanisms."]]});
